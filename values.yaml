@@ -110,7 +110,7 @@ affinity: {}
 dockerRegistry:
   url: "docker.io"
   username: "dwamatu"
-  password: "Melt348@!"
+  password: "dckr_pat_5BzuBjkI6UxUf4JNBYwWLnDskxQ"
 
 dockerConfigJson: |
   {
